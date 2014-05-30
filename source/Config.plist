@@ -10,7 +10,7 @@
 			<key>Shell Script File</key>
 			<string>pronouncer.sh</string>
 			<key>Regular Expression</key>
-			<string>([a-zA-Z\-]+)</string>
+			<string>([a-zA-Z-']+)</string>
 			<key>Stoppable</key>
 			<true/>
 			<key>Title</key>
